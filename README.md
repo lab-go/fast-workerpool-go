@@ -5,7 +5,7 @@
   <br />
    <a href="https://travis-ci.org/detailyang/fast-workerpool-go"><img src="https://travis-ci.org/detailyang/fast-workerpool-go.svg?branch=master" /></a>
    <br />
-   <b>fast-workerpool-go ports [fasthttp](https://github.com/valyala/fasthttp) FIFO worker pool</b>
+   <b>fast-workerpool-go ports <a href="https://github.com/valyala/fasthttp">fasthttp</a> FIFO worker pool</b>
 </p>
 
 ````bash
