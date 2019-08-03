@@ -4,6 +4,7 @@
   </b>
   <br />
    <a href="https://travis-ci.org/detailyang/fast-workerpool-go"><img src="https://travis-ci.org/detailyang/fast-workerpool-go.svg?branch=master" /></a>
+   <a href="https://ci.appveyor.com/project/detailyang/fast-workerpool-go"><img src="https://ci.appveyor.com/api/projects/status/ux7lf3h9wf8bx8ep?svg=true" /></a>
    <br />
    <b>fast-workerpool-go ports <a href="https://github.com/valyala/fasthttp">fasthttp</a> FIFO worker pool</b>
 </p>
