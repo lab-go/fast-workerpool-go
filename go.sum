@@ -1,0 +1,13 @@
+github.com/Jeffail/tunny v0.0.0-20181108205650-4921fff29480 h1:pTK5nW0J4B2IlU9RjSoJMC+tgu+CQI6obTlgsdiznpQ=
+github.com/Jeffail/tunny v0.0.0-20181108205650-4921fff29480/go.mod h1:BX3q3G70XX0UmIkDWfDHoDRquDS1xFJA5VTbMf+14wM=
+github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/dgrr/GoSlaves v0.0.0-20190531093914-3d38c0750c27 h1:JXIfRTW7TBbqlBJVpaiweNVSf16dPNs1W4vMZhbfaCE=
+github.com/dgrr/GoSlaves v0.0.0-20190531093914-3d38c0750c27/go.mod h1:eb29lFY33nA+1bJr/cOgPyITJkS52q5T7ukY200SBws=
+github.com/panjf2000/ants v1.1.0 h1:z1311FxGnwySXwQum1k4ZlHkWs86Xy18il4fuRzQemw=
+github.com/panjf2000/ants v1.1.0/go.mod h1:AaACblRPzq35m1g3enqYcxspbbiOJJYaxU2wMpm1cXY=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0Q=
+github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
