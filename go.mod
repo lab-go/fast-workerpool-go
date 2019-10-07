@@ -1,4 +1,4 @@
-module github.com/detailyang/fast-worker-pool-go
+module github.com/detailyang/fast-workerpool-go
 
 go 1.13
 
